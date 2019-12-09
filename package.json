@@ -33,13 +33,13 @@
     "nuxt": "^2.10.2"
   },
   "devDependencies": {
-    "@nuxtjs/pwa": "3.0.0-beta.8",
+    "@nuxtjs/pwa": "3.0.0-beta.19",
     "@nuxtjs/eslint-config": "^1.1.2",
     "babel-eslint": "^10.0.3",
-    "eslint": "^6.6.0",
+    "eslint": "^6.7.2",
     "eslint-config-standard": "^14.1.0",
-    "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-jest": "^23.0.2",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-jest": "^23.1.1",
     "eslint-plugin-node": "^10.0.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1",
